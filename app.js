@@ -1,1 +1,1 @@
-console.log('This is the main app');
+console.log('This is the master app');

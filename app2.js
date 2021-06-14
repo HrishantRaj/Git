@@ -1,1 +1,1 @@
-console.log('This is the secondory app');
+console.log('This is the slave app');
